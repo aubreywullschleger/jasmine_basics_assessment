@@ -1,4 +1,4 @@
-var myCode = require('./../grades.js')
+var myCode = require('./../grades.js');
 
 describe('#letterGrade()', function(){
   it('get letter grade', function(){

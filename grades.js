@@ -58,4 +58,4 @@ module.exports = {
       return (array[half-1] + array[half]) / 2;
       }
     },
-}
+};
